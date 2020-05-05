@@ -1,1 +1,2 @@
 # study
+  Professor: Andrei Samoylov
